@@ -105,7 +105,8 @@ class _HomeState extends State<Home> {
         child: Column(
             children: [
               Container(
-                height: Adaptive.h(12),
+                
+                height: Adaptive.h(10),
           width: 100.w,
           child:
               Row(
